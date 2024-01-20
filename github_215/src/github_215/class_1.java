@@ -11,5 +11,8 @@ public class class_1 {
 	void display() {
 		System.out.println("Hello Branch");
 	}
+	void display1() {
+		System.out.println("Hello VR_1");
+	}
 
 }
