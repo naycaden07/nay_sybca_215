@@ -8,5 +8,8 @@ public class class_1 {
 		System.out.println("Hello World 83");
 
 	}
+	void display() {
+		System.out.println("Hello Branch");
+	}
 
 }
